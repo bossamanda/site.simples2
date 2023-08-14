@@ -1,0 +1,13 @@
+@import url(styles/header.css);
+:root{
+--cor-de-fundo: rgba(14, 108, 230, 0.747);
+--cor-cabecalho: rgba(9, 55, 99, 0.521);
+}
+body{
+background-color: var(--cor-de-fundo);
+margin: 0;
+}
+
+.container{
+    color: rgb(255, 255, 255);
+}

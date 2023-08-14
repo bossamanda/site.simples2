@@ -1,1 +1,1 @@
-# site.simples2
+# site-simples
